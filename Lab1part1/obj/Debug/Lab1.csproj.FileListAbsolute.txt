@@ -1,0 +1,12 @@
+C:\cSharp\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\cSharp\Lab1\bin\Debug\Lab1.exe.config
+C:\cSharp\Lab1\bin\Debug\Lab1.exe
+C:\cSharp\Lab1\bin\Debug\Lab1.pdb
+C:\cSharp\Lab1\obj\Debug\Lab1.exe
+C:\cSharp\Lab1\obj\Debug\Lab1.pdb
+C:\cSharp\Lab1part1\bin\Debug\Lab1.exe.config
+C:\cSharp\Lab1part1\bin\Debug\Lab1.exe
+C:\cSharp\Lab1part1\bin\Debug\Lab1.pdb
+C:\cSharp\Lab1part1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\cSharp\Lab1part1\obj\Debug\Lab1.exe
+C:\cSharp\Lab1part1\obj\Debug\Lab1.pdb
